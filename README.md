@@ -1,0 +1,1 @@
+ Developed a responsive and visually appealing website that ensured an optimal viewing and purchasing experience across various devices and screen sizes.
